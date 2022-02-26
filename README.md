@@ -8,7 +8,7 @@ HTML
 CSS
 
 ##Screenshot
-![screen shot of homepage]()
+![screen shot of homepage](/Develop/assets/images/Horiseon.jpg)
 
 Resources
 W3schools.com
